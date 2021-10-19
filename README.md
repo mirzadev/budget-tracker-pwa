@@ -76,6 +76,15 @@ THEN the deposits or expenses added while they were offline are added to their t
 - npm run start:dev
 - npm i -D webpack-pwa-manifest
 
+## Usage
+💻   
+  
+Run the following command at the terminal:
+  
+`node server.js`
+
+`nodemon server.js`
+
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:awal.mirza2016@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mirza-awal-5972511b5/)<br />
