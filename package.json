@@ -27,6 +27,7 @@
   },
   "keywords": [],
   "devDependencies": {
-    "webpack-cli": "^4.9.1"
+    "webpack-cli": "^4.9.1",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
