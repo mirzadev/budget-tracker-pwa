@@ -15,25 +15,24 @@
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Questions](#questions)
 
 
 ## App Screenshots
 - Picture of the Home Page of the Application.
-![Home page of the application](./images/Home-Page-Top.JPG)
+![Home page of the application](./screen-shots/screenshot-budget-tracket-pwa.JPG)
 
-- Picture of the Dashboard
-![Picture of dashboard](./images/Dashboard.JPG)
+- Picture of transaction offline and then adjust after online
+![Picture of transactions offline-online](./screen-shots/updated-screenshot-after-getting-online.JPG)
 
-- To login to Application
+- Picture of Transaction - online
 
-![Login functionality](./images/Login-Page.JPG)
+![Picture of Transaction - online](./screen-shots/screenshot-purchase-online.JPG)
 
 ## Overview Links
 - [Application launched in Heroku](https://mvc-tech-blog-mirza.herokuapp.com/)
-- [Application walkthrough](https://drive.google.com/file/d/1zgAiklLX9NFXMJyUUnUuYKepSbjlHH2n/view)
-- [GitHub Repository](https://mirzadev.github.io/MVC-TECH-BLOG/)
+- [Application walkthrough](https://watch.screencastify.com/v/fcRZwppcDGTcG5rVgp0e)
+- [GitHub Repository](https://mirzadev.github.io/budget-tracker-pwa/)
 
 
 ## User Story
@@ -66,9 +65,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 - npm i -D webpack webpack-cli
 - npm run webpack -v
 - npm run build
-- npm i jquery
-- npm i bootstrap
-- npm i popper.js
 - npm install -D webpack-bundle-analyzer
 - npm install -D file-loader
 - npm i image-webpack-loader
@@ -87,5 +83,5 @@ Run the following command at the terminal:
 
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:awal.mirza2016@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mirza-awal-5972511b5/)<br />
+✉️ Contact me with any questions: [email](mailto:awal.mirza2016@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mirza-awal-5972511b5/)
 
