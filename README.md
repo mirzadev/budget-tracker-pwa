@@ -29,8 +29,12 @@
 
 ![Picture of Transaction - online](./screen-shots/screenshot-purchase-online.JPG)
 
+- Picture of API Screen shot
+
+![Picture of Transaction - online](./screen-shots/API-Screen-Shot.JPG)
+
 ## Overview Links
-- [Application launched in Heroku](https://mvc-tech-blog-mirza.herokuapp.com/)
+- [Application launched in Heroku](https://budget-tracker-pwa-mirza.herokuapp.com/)
 - [Application walkthrough](https://watch.screencastify.com/v/fcRZwppcDGTcG5rVgp0e)
 - [GitHub Repository](https://mirzadev.github.io/budget-tracker-pwa/)
 
@@ -78,9 +82,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 Run the following command at the terminal:
   
 `node server.js`
-
-`nodemon server.js`
-
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:awal.mirza2016@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mirza-awal-5972511b5/)
