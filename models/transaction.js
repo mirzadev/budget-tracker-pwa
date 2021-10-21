@@ -11,11 +11,13 @@ const transactionSchema = new Schema(
     },
     value: {
       type: Number,
+      trim: true,
       required: "Enter an amount"
     },
     date: {
       type: Date,
-      default: Date.now
+      default: Date.now,
+      get: createdAtVal => dateFormat(createdAtVal)
     }
   }
 );
